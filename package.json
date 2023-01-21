@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/isaackice/note-taker-id/issues"
   },
-  "homepage": "https://github.com/isaackice/note-taker-id#readme"
+  "homepage": "https://github.com/isaackice/note-taker-id#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
